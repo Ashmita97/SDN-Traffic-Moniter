@@ -1,4 +1,4 @@
-# SDN-Traffic-Moniter
+# SDN-Traffic-Monitor
 Aim
 To monitor traffic based on link utilisation for a given SDN topology
 
